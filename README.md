@@ -19,7 +19,7 @@
 
 1) First Clone this project:
 
-### `git clone https://github.com/ManiruzzamanAkash/react-calculator.git`
+### `git clone https://github.com/rohit9123-github/Calculator_App_React`
 
 2) Install node modules:
 
